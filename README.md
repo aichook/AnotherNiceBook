@@ -1,4 +1,3 @@
 # AnotherNiceBook
 We will write a nice book 
-
-You can read it
+You can read it here
